@@ -1,6 +1,6 @@
 "use client";
 import { Search, ShoppingCart, Bell, Menu, X } from "lucide-react";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import Link from "next/link";
 
